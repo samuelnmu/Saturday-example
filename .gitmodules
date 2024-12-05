@@ -1,0 +1,3 @@
+[submodule "collaborate/collaborate/python-file"]
+	path = collaborate/collaborate/python-file
+	url = https://github.com/TofPepper/python-file.git
